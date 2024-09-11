@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaythakur123
+- 👋 Hi, I’m @vijaysingh123
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking Good
